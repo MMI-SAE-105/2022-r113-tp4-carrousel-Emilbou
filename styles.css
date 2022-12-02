@@ -12,9 +12,10 @@
 
 img {
     /* image responsive, largeur maxi */
+    height: 100%;
     max-width: auto;
     /* hauteur "auto" */
-    height: auto;
+
 }
 
 .carrousel_parent-ecrans {
